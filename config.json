@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenspdate",
+        "uuid": 5721420,
+        "checksum": "szxlw"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
